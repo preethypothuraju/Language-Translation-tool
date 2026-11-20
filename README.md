@@ -1,0 +1,4 @@
+-Streamlit user interface
+-Source and target language translation selection
+-MyMemory translation API
+-Translation result display
